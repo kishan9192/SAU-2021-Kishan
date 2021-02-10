@@ -1,1 +1,2 @@
-This is newfile1 in secondBranch
+Now after commit added one more line
+resolving the merge conflicts
