@@ -1,4 +1,2 @@
 This is file 1 
 Hello world new lines added
-
-
