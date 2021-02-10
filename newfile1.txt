@@ -1,2 +1,4 @@
 This is the newfile1.txt
-Now let's try to commit and restore. 
+Now let's try to commit and restore.
+
+Now after commit added one more line
